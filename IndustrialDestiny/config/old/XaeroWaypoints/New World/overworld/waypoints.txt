@@ -1,0 +1,25 @@
+waypoint:Village 1:V:5:70:146:12:true:0:gui.xaero_default:false:0
+waypoint:Sheep:S:-159:69:340:5:true:0:gui.xaero_default:false:0
+waypoint:Cave:C:-216:28:400:0:true:0:gui.xaero_default:false:0
+waypoint:Subcave:C:-223:27:371:13:true:0:gui.xaero_default:false:0
+waypoint:Ravine:R:-86:39:157:5:true:0:gui.xaero_default:false:0
+waypoint:Cave 2:C:-133:66:24:3:true:0:gui.xaero_default:false:0
+waypoint:Taiga:T:-109:71:7:9:true:0:gui.xaero_default:false:0
+waypoint:Lava pool:L:23:67:25:6:true:0:gui.xaero_default:false:0
+waypoint:Lava pool 2:W:117:64:89:4:true:0:gui.xaero_default:false:0
+waypoint:Home:H:85:63:101:4:true:0:gui.xaero_default:false:0
+waypoint:Subcave 2:S:-69:17:128:13:true:0:gui.xaero_default:false:0
+waypoint:Spawner 1:S:-91:19:148:13:true:0:gui.xaero_default:false:0
+waypoint:Drill:D:-44:8:137:11:true:0:gui.xaero_default:false:0
+waypoint:Cave 3:L:-51:17:115:6:true:0:gui.xaero_default:false:0
+waypoint:Home (direct):H:61:63:119:12:false:0:gui.xaero_default:false:0
+waypoint:Mine:M:45:37:135:10:true:0:gui.xaero_default:false:0
+waypoint:Cave 4:C:241:53:54:9:true:0:gui.xaero_default:false:0
+waypoint:Ravine split:R:482:59:-92:14:true:0:gui.xaero_default:false:0
+waypoint:Ravine 2:R:438:66:-10:10:true:0:gui.xaero_default:false:0
+waypoint:Ravine 3:R:402:63:-10:5:true:0:gui.xaero_default:false:0
+waypoint:Pumpkins:P:384:63:-130:6:true:0:gui.xaero_default:false:0
+waypoint:Lava pool:L:70:12:117:14:true:0:gui.xaero_default:false:0
+waypoint:Savanna:F:338:73:102:10:true:0:gui.xaero_default:false:0
+waypoint:Ravine:R:597:61:243:14:true:0:gui.xaero_default:false:0
+waypoint:Monument:M:1105:61:864:2:false:0:gui.xaero_default:false:0

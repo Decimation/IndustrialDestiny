@@ -1,0 +1,2 @@
+waypoint:Home portal:H:13:65:20:5:false:0:gui.xaero_default:false:0
+waypoint:Blaze fortress:D:-358:64:199:0:false:0:gui.xaero_default:false:0

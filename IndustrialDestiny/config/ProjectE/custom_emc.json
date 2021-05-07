@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "item": "animania:cooked_prime_pork|0",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemmisc|56",
+      "emc": 2304
+    },
+    {
+      "item": "ic2:itemmisc|181",
+      "emc": 8192
+    },
+    {
+      "item": "ic2:itemmisc|257",
+      "emc": 2400
+    },
+    {
+      "item": "ic2:itemmisc|250",
+      "emc": 516
+    },
+    {
+      "item": "ic2:itemmisc|251",
+      "emc": 516
+    }
+  ]
+}

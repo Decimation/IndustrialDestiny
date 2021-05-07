@@ -1,0 +1,5 @@
+waypoint:Home:H:-156:72:484:4:false:0:gui.xaero_default:false:0
+waypoint:Cave #1:C:-221:53:608:8:true:0:gui.xaero_default:false:0
+waypoint:Mineshaft #1:M:-229:44:601:9:true:0:gui.xaero_default:false:0
+waypoint:Cave #2:C:-21:45:466:8:true:0:gui.xaero_default:false:0
+waypoint:Crater #1:C:16:34:430:0:true:0:gui.xaero_default:false:0

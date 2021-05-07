@@ -1,0 +1,26 @@
+[
+    {
+    "serverName": "Aperture",
+    "serverIP": "tekxit-three.nitrous.it"
+  },
+    {
+    "serverName": "MilspecSG",
+    "serverIP": "tekxit3.milspecsg.rocks"
+  },
+    {
+    "serverName": "HaxysHideout",
+    "serverIP": "tekxit.haxyshideout.co.uk"
+  },
+    {
+    "serverName": "Kings of Tekkit",
+    "serverIP": "tekxit.kingsoftekkit.com:25566"
+  },
+    {
+    "serverName": "Apocalyptic Gaming",
+    "serverIP": "tekxit.apocgaming.org"
+  },
+    {
+    "serverName": "Local Server",
+    "serverIP": "localhost"
+  }
+]
